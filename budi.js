@@ -8,3 +8,5 @@ const newData = {
 const dataBudi = budi.push(newData)
 
 console.log(budi)
+
+console.log("Oke aja sih")
