@@ -1,7 +1,7 @@
 const budi = []
 
 const newData = {
-    name: 'Budi',
+    name: 'Jack Owi',
     age: 5
 }
 
